@@ -1,6 +1,6 @@
 # Font Library
 
-Hello designers! 
+Hello, designers! 
 
 ------------------------------------------------------------------------------------------------------------------------
 You can help me to complete this pack.
@@ -23,6 +23,8 @@ Suggest any???
 7. GT Eesti Font Family		https://www.grillitype.com/typeface/gt-eesti
 
 8. Mirador Cyrillic			https://www.myfonts.com/fonts/rene-bieder/mirador/
+
+9. Cera Pro					https://www.myfonts.com/fonts/typemates/cera/
 ------------------------------------------------------------------------------------------------------------------------
 
 "Be Careful" folder is for people, who can fix bugs in fonts. Contact me and i ll write what exactly wrong with this one!

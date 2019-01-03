@@ -12,9 +12,11 @@ Suggest any???
 
 2. Beatrix Antiqua			https://www.myfonts.com/fonts/zetafonts/beatrix-antiqua/
 
-3. Belwe Cyrillic			https://www.myfonts.com/fonts/adobe/belwe/
+3. Belwe Cyrillic			https://www.myfonts.com/fonts/adobe/belwe/ + Hearthstone game edition 
 
 4. Rogan					https://www.myfonts.com/fonts/hand-foundry/rogan/
+
+5. FF Kievit Pro Cyrillic	https://www.myfonts.com/fonts/fontfont/kievit/	
 ------------------------------------------------------------------------------------------------------------------------
 
 "Be Careful" folder is for people, who can fix bugs in fonts. Contact me and i ll write what exactly wrong with this one!

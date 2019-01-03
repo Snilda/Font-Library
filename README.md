@@ -19,6 +19,10 @@ Suggest any???
 5. FF Kievit Pro Cyrillic	https://www.myfonts.com/fonts/fontfont/kievit/	
 
 6. Arista Pro				https://www.myfonts.com/search/Arista+Pro/
+
+7. GT Eesti Font Family		https://www.grillitype.com/typeface/gt-eesti
+
+8. Mirador Cyrillic			https://www.myfonts.com/fonts/rene-bieder/mirador/
 ------------------------------------------------------------------------------------------------------------------------
 
 "Be Careful" folder is for people, who can fix bugs in fonts. Contact me and i ll write what exactly wrong with this one!

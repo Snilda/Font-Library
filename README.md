@@ -24,7 +24,7 @@ Suggest any???
 
 8. Mirador Cyrillic			https://www.myfonts.com/fonts/rene-bieder/mirador/
 
-9. Cera Pro					https://www.myfonts.com/fonts/typemates/cera/
+9. Cera Pro	Cyrillic		https://www.myfonts.com/fonts/typemates/cera/
 ------------------------------------------------------------------------------------------------------------------------
 
 "Be Careful" folder is for people, who can fix bugs in fonts. Contact me and i ll write what exactly wrong with this one!

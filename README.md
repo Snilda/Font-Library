@@ -17,6 +17,8 @@ Suggest any???
 4. Rogan					https://www.myfonts.com/fonts/hand-foundry/rogan/
 
 5. FF Kievit Pro Cyrillic	https://www.myfonts.com/fonts/fontfont/kievit/	
+
+6. Arista Pro				https://www.myfonts.com/search/Arista+Pro/
 ------------------------------------------------------------------------------------------------------------------------
 
 "Be Careful" folder is for people, who can fix bugs in fonts. Contact me and i ll write what exactly wrong with this one!

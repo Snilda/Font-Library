@@ -1,6 +1,5 @@
-#!/bin/bash
+!/bin/bash
 
-# OS detection
 osdetect=$(uname)
 file_path="unknown"
 if [[ "$osdetect" == 'Darwin' ]]; then

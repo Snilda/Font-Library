@@ -19,7 +19,7 @@ fi
 clear
 echo "Installing all Fonts onto your System"
 echo "Downloading the fonts..."
-curl -L https://github.com/Snilda/Font-Library/tree/master/tarball/Cyrillic -o /tmp/master.tar.gz
+curl -L https://github.com/Snilda/Font-Library/tarball/master/Cyrillic -o /tmp/master.tar.gz
 echo "Extracting the fonts..."
 mkdir -p /tmp/fonts
 tar -zxf /tmp/master.tar.gz -C /tmp/goog-fonts/fonts

@@ -26,11 +26,11 @@ Suggest any???
 
 8. Mirador Cyrillic				https://www.myfonts.com/fonts/rene-bieder/mirador/
 
-<del> 9. Cera Pro	Cyrillic		https://www.myfonts.com/fonts/typemates/cera/ </del>
+<del> 9. Cera Pro	Cyrillic	https://www.myfonts.com/fonts/typemates/cera/ </del>
 
 10. Brandon Grotesque Cyrillic	https://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/
 
-11. Sofia Pro Cyrillic			https://www.myfonts.com/fonts/mostardesign/sofia-pro/
+<del> 11. Sofia Pro Cyrillic	https://www.myfonts.com/fonts/mostardesign/sofia-pro/ </del>
 	
 ------------------------------------------------------------------------------------------------------------------------
 

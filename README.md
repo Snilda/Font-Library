@@ -2,7 +2,7 @@
 
 Hello, designers! 
 
-curl https://github.com/Snilda/Font-Library/autoinstall.sh | sh // It must work)
+/// i am trying make autoinstal.sh for macOS ///
 
 ------------------------------------------------------------------------------------------------------------------------
 You can help me to complete this pack.

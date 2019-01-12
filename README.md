@@ -22,7 +22,7 @@ Suggest any???
 
 6. Arista Pro					https://www.myfonts.com/search/Arista+Pro/
 
-7. GT Eesti Font Family			https://www.grillitype.com/typeface/gt-eesti
+<del> 7. GT Eesti Font Family			https://www.grillitype.com/typeface/gt-eesti </del> 
 
 8. Mirador Cyrillic				https://www.myfonts.com/fonts/rene-bieder/mirador/
 

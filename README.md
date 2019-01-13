@@ -20,9 +20,9 @@ Suggest any???
 
 <del> 5. FF Kievit Pro			https://www.myfonts.com/fonts/fontfont/kievit/ </del>
 
-6. Arista Pro					https://www.myfonts.com/search/Arista+Pro/
+<del> 6. Arista Pro				https://www.myfonts.com/search/Arista+Pro/ </del>
 
-<del> 7. GT Eesti Font Family			https://www.grillitype.com/typeface/gt-eesti </del> 
+<del> 7. GT Eesti Font Family	https://www.grillitype.com/typeface/gt-eesti </del> 
 
 8. Mirador Cyrillic				https://www.myfonts.com/fonts/rene-bieder/mirador/
 

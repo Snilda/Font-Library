@@ -24,7 +24,7 @@ Suggest any???
 
 <del> 7. GT Eesti Font Family	https://www.grillitype.com/typeface/gt-eesti </del> 
 
-8. Mirador Cyrillic				https://www.myfonts.com/fonts/rene-bieder/mirador/
+8. Expressway Cyrillic			https://www.myfonts.com/fonts/typodermic/expressway/
 
 <del> 9. Cera Pro	Cyrillic	https://www.myfonts.com/fonts/typemates/cera/ </del>
 

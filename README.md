@@ -14,7 +14,7 @@ Suggest any???
 
 3. Belwe Cyrillic				https://www.myfonts.com/fonts/adobe/belwe/ + Hearthstone game edition 
 
-4. Rogan						https://www.myfonts.com/fonts/hand-foundry/rogan/
+<del> 4. Rogan					https://www.myfonts.com/fonts/hand-foundry/rogan/ </del>
 
 <del> 5. FF Kievit Pro			https://www.myfonts.com/fonts/fontfont/kievit/ </del>
 

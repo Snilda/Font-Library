@@ -2,8 +2,6 @@
 
 Hello, designers! 
 
-/// i am trying make autoinstal.sh for macOS ///
-
 ------------------------------------------------------------------------------------------------------------------------
 You can help me to complete this pack.
 I am looking for this Fonts:
@@ -34,4 +32,4 @@ Suggest any???
 	
 ------------------------------------------------------------------------------------------------------------------------
 
-"Be Careful" folder is for people, who can fix bugs in fonts. Contact me and i ll write what exactly wrong with this one!
+/// i am trying make autoinstal.sh for macOS ///

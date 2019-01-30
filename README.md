@@ -16,7 +16,7 @@ Suggest any???
 
 <del> 4. Rogan					https://www.myfonts.com/fonts/hand-foundry/rogan/ </del>
 
-<del> 5. FF Kievit Pro			https://www.myfonts.com/fonts/fontfont/kievit/ </del>
+5.	Co Text Font 				https://fonts.adobe.com/fonts/co#fonts-section
 
 <del> 6. Arista Pro				https://www.myfonts.com/search/Arista+Pro/ </del>
 

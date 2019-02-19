@@ -26,9 +26,7 @@ Suggest any???
 
 <del> 9. Cera Pro	Cyrillic	https://www.myfonts.com/fonts/typemates/cera/ </del>
 
-10. Jano Sans Pro				https://www.myfonts.com/font/craceltype/jano-sans-pro
-
-<del> 11. Sofia Pro Cyrillic	https://www.myfonts.com/fonts/mostardesign/sofia-pro/ </del>
+<del> 10. Sofia Pro Cyrillic	https://www.myfonts.com/fonts/mostardesign/sofia-pro/ </del>
 	
 ------------------------------------------------------------------------------------------------------------------------
 

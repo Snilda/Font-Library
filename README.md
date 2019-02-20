@@ -14,9 +14,9 @@ Suggest any???
 
 3. Belwe Cyrillic				https://www.myfonts.com/fonts/adobe/belwe/ + Hearthstone game edition 
 
-<del> 4. Rogan					https://www.myfonts.com/fonts/hand-foundry/rogan/ </del>
+4. Coco Gothic					https://www.zetafonts.com/coco-gothic/
 
-5.	Co Text Font 				https://fonts.adobe.com/fonts/co#fonts-section
+5. Co Text Font 				https://fonts.adobe.com/fonts/co#fonts-section
 
 6. Expressway Cyrillic			https://www.myfonts.com/fonts/typodermic/expressway/
 

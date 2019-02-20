@@ -8,7 +8,7 @@ I am looking for this Fonts:
 
 Suggest any???
 
-<del> 1. Moreno					https://www.myfonts.com/fonts/typedepot/moreno/ </del>
+1. GGX88 font					https://www.myfonts.com/fonts/typodermic/ggx88/
 
 2. Beatrix Antiqua				https://www.myfonts.com/fonts/zetafonts/beatrix-antiqua/
 

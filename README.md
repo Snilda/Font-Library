@@ -10,17 +10,9 @@ Suggest any???
 
 1. GGX88 font					https://www.myfonts.com/fonts/typodermic/ggx88/
 
-2. Beatrix Antiqua				https://www.myfonts.com/fonts/zetafonts/beatrix-antiqua/
+2. TT Smalls					https://www.myfonts.com/font/type-type/tt-smalls/
 
-3. Belwe Cyrillic				https://www.myfonts.com/fonts/adobe/belwe/ + Hearthstone game edition 
-
-4. Coco Gothic					https://www.zetafonts.com/coco-gothic/
-
-5. Co Text Font 				https://fonts.adobe.com/fonts/co#fonts-section
-
-6. Expressway Cyrillic			https://www.myfonts.com/fonts/typodermic/expressway/
-
-
+3. Co Text Font 				https://fonts.adobe.com/fonts/co#fonts-section
 	
 ------------------------------------------------------------------------------------------------------------------------
 

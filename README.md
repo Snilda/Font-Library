@@ -8,7 +8,7 @@ I am looking for this Fonts:
 
 Suggest any???
 
-1. GGX88 font					https://www.myfonts.com/fonts/typodermic/ggx88/
+<del> 1. Arethusa Pro					https://www.myfonts.com/font/aviation/arethusa-pro </del>
 
 2. TT Smalls					https://www.myfonts.com/font/type-type/tt-smalls/
 

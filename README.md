@@ -10,7 +10,7 @@ Suggest any???
 
 <del> 1. Arethusa Pro					https://www.myfonts.com/font/aviation/arethusa-pro </del>
 
-2. TT Smalls					https://www.myfonts.com/font/type-type/tt-smalls/
+2. Mato Sans					https://www.myfonts.com/fonts/maciej-wloczewski/mato-sans/
 
 3. Co Text Font 				https://fonts.adobe.com/fonts/co#fonts-section
 	

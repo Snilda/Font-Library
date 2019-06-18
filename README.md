@@ -6,6 +6,8 @@ Hello, designers!
 You can help me to complete this pack.
 I am looking for this Fonts:
 
+1.TheSans by LucasFonts https://www.fontshop.com/families/thesans
+
 Suggest any???
 ------------------------------------------------------------------------------------------------------------------------
 
